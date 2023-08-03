@@ -74,6 +74,9 @@ nav ul li a:hover {
   margin: auto;
   /* background-color: #2874f0; */
 }
+.card h2 {
+  font-family: "Lato", sans-serif;
+}
 /* footer part */
 footer {
   height: 12vh;
