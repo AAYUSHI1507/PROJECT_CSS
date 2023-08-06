@@ -79,6 +79,12 @@ nav ul li a:hover {
   /* background-color: #2874f0; */
   font-family: "Ubuntu", sans-serif;
 }
+
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .card h2 {
   font-family: "Ubuntu", sans-serif;
 }
@@ -94,4 +100,5 @@ footer {
   height: 12vh;
   background-color: rgb(19, 18, 59);
   color: white;
+  font-family: "Lato", sans-serif;
 }
