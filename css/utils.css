@@ -12,3 +12,15 @@
   border-radius: 7px;
   cursor: pointer;
 }
+.my-1{
+  margin: 5px 0;
+}
+.my-2{
+  margin: 26px 0;
+}
+.text-center{
+  text-align: center;
+  width: 12vw;
+}
+/* Instead of this text-center class we would have also apply this properties directly on div .line class there was a non need of creating different class of now... lets see further!!! */
+
