@@ -70,20 +70,22 @@ nav ul li a:hover {
 .slider {
   width: 46vw;
   margin: 12px auto;
+  overflow: hidden;
 }
 /* Here in .slider to make it responsive we can also use flex instead of margin auto */
 
 .card {
   max-width: 80vw;
-  margin: auto;
+  margin: 37px auto;
   /* background-color: #2874f0; */
   font-family: "Ubuntu", sans-serif;
 }
 
 .cards {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  /* align-items: center; */
+  /* justify-content: center; */
+  overflow: hidden;
 }
 .card h2 {
   font-family: "Ubuntu", sans-serif;
