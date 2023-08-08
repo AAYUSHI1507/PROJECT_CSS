@@ -1,6 +1,6 @@
 @media screen and (max-width: 1000px) {
   body {
-    background-color: red;
+    background-color: rgb(240, 232, 232);
   }
   nav {
     flex-direction: column;
