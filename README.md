@@ -35,7 +35,7 @@ Insert screenshots showcasing different sections of your recreated homepage.
 Though it is not exactly same but I have recreated homepage without using javascript. So if anyone practicing only css can refer this
 
 
-![Screenshot](../img/Screenshot (62).png)
+![Screenshot](/img/Screenshot (62).png)
 
 
 ## Acknowledgements
