@@ -35,7 +35,8 @@ Insert screenshots showcasing different sections of your recreated homepage.
 Though it is not exactly same but I have recreated homepage without using javascript. So if anyone practicing only css can refer this
 
 
-![Screenshot (62)](https://github.com/AAYUSHI1507/PROJECT_CSS/assets/79357098/bc12895a-d10a-4d21-80e0-4a964e544e16)
+![Screenshot (62)](https://github.com/AAYUSHI1507/PROJECT_CSS/assets/79357098/77c98f11-e3d5-430d-a96b-45674e3863c4)
+
 
 
 ## Acknowledgements
